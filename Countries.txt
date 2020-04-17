@@ -1,0 +1,210 @@
+China
+USA
+Spain
+Italy
+France
+Germany
+UK
+Iran
+Turkey
+Belgium
+Netherlands
+Switzerland
+Canada
+Brazil
+Russia
+Portugal
+Austria
+Israel
+Sweden
+Ireland
+S. Korea
+India
+Peru
+Japan
+Ecuador
+Chile
+Poland
+Romania
+Norway
+Australia
+Denmark
+Czechia
+Pakistan
+Saudi Arabia
+Philippines
+Malaysia
+Mexico
+Indonesia
+UAE
+Serbia
+Panama
+Luxembourg
+Qatar
+Dominican Republic
+Ukraine
+Finland
+Belarus
+Singapore
+Colombia
+Thailand
+Argentina
+South Africa
+Egypt
+Greece
+Algeria
+Morocco
+Moldova
+Iceland
+Croatia
+Hungary
+Iraq
+Bahrain
+New Zealand
+Estonia
+Kuwait
+Slovenia
+Azerbaijan
+Kazakhstan
+Lithuania
+Armenia
+Bosnia and Herzegovina
+Hong Kong
+Uzbekistan
+North Macedonia
+Cameroon
+Bangladesh
+Slovakia
+Oman
+Tunisia
+Cuba
+Bulgaria
+Afghanistan
+Cyprus
+Latvia
+Andorra
+Lebanon
+Ivory Coast
+Costa Rica
+Ghana
+Niger
+Burkina Faso
+Uruguay
+Albania
+Channel Islands
+Kyrgyzstan
+Honduras
+Taiwan
+Jordan
+Réunion
+Malta
+San Marino
+Nigeria
+Bolivia
+Mauritius
+Guinea
+Palestine
+Djibouti
+Senegal
+Montenegro
+Georgia
+Vietnam
+Isle of Man
+DRC
+Sri Lanka
+Kenya
+Mayotte
+Venezuela
+Faeroe Islands
+Martinique
+Guatemala
+Paraguay
+Guadeloupe
+El Salvador
+Brunei
+Gibraltar
+Rwanda
+Mali
+Cambodia
+Trinidad and Tobago
+Madagascar
+Monaco
+Aruba
+French Guiana
+Liechtenstein
+Togo
+Ethiopia
+Jamaica
+Barbados
+Myanmar
+Congo
+Somalia
+Liberia
+Bermuda
+Gabon
+French Polynesia
+Cayman Islands
+Uganda
+Sint Maarten
+Bahamas
+Tanzania
+Guyana
+Zambia
+Macao
+Haiti
+Guinea-Bissau
+Benin
+Eritrea
+Saint Martin
+Sudan
+Libya
+Syria
+Antigua and Barbuda
+Chad
+Equatorial Guinea
+Mozambique
+Maldives
+Angola
+Laos
+Belize
+New Caledonia
+Zimbabwe
+Mongolia
+Malawi
+Dominica
+Fiji
+Namibia
+Saint Lucia
+Eswatini
+Curaçao
+Nepal
+Grenada
+Botswana
+Saint Kitts and Nevis
+St. Vincent Grenadines
+CAR
+Greenland
+Montserrat
+Seychelles
+Cabo Verde
+Suriname
+Turks and Caicos
+Sierra Leone
+Gambia
+Nicaragua
+Vatican City
+Mauritania
+St. Barth
+Western Sahara
+Burundi
+Bhutan
+Falkland Islands
+Sao Tome and Principe
+South Sudan
+Timor-Leste
+Anguilla
+British Virgin Islands
+Caribbean Netherlands
+Papua New Guinea
+Saint Pierre Miquelon
+Yemen
