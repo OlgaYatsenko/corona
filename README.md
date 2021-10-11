@@ -4,7 +4,7 @@ trends on corona virus;
 
 ## Project overview
 * Beatiful soup library for parding;
-* Saving summary data into SQLLite database  
+* Saving summary data into SQLite database  
 
 ## Program Execution 
 1) run file Run1 (see comments in the file for details)
